@@ -1,0 +1,1 @@
+This is simple library, created for learning purpose
